@@ -1,7 +1,7 @@
-                                                                         Diabetes Risk Analysis Dashboard
+                                              Diabetes Risk Analysis Dashboard
 Basic Excel cleaning , PostgreSQL and Apache Superset analysis of patient health data to understand patterns associated with higher risk of diabetes.
 
-                                                            Project Overview
+                                            Project Overview
 This project focuses on analyzing patient health data to identify patterns and trends associated with diabetes risk.
 I used Excel for data cleaning, PostgreSQL for data analysis, and Apache Superset for visualization. I explored patient demographics, BMI, HbA1c levels, and other health indicators to uncover meaningful insights.
 
